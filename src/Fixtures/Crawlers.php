@@ -29,6 +29,7 @@ class Crawlers extends AbstractProvider
         '^COMODO DCV',
         '^DangDang',
         '^DavClnt',
+        '^Dispatch',
         '^FDM ',
         '^git\/',
         '^Goose\/',
