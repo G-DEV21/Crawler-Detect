@@ -107,6 +107,7 @@ class Crawlers extends AbstractProvider
         'BegunAdvertising\/',
         'BigBozz',
         'biglotron',
+        'bingbot',
         'BingLocalSearch',
         'BingPreview',
         'binlar',
